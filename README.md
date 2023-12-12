@@ -1,4 +1,4 @@
-# simple-dynamic-price-calculator
+# Dynamic Price Calculator Beta
 Dynamic Price Element Documentation
 # Dynamic Price Element Documentation
 
