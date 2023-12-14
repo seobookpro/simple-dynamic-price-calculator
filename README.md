@@ -49,4 +49,44 @@ To utilize the dynamic price element, follow these steps:
     <!-- Add more checkboxes for other features -->
 </ul>
 
+ ```
+
+
+# A brief description of Dynamic Price Calculator Beta project.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Project Overview
+
+Explain what your project is about and what problem it solves. Provide a high-level overview of its features and functionality.
+
+## Features
+
+List the key features of your project. For example:
+
+- Feature 1: Description
+- Feature 2: Description
+- ...
+
+## Getting Started
+
+Provide instructions on how to set up and run your project locally.
+
+### Prerequisites
+
+List any software, tools, or dependencies that users need to install before running your project.
+
+### Installation
+
+Step-by-step instructions on how to install and configure your project.
 
